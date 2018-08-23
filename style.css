@@ -46,3 +46,12 @@ button:focus{
 	outline: none;
 }
 
+/* Responsiveness */
+
+@media only screen and (max-width: 375px){
+	.container{
+		width: 65%;
+
+		height: 70vh;
+	}
+}
