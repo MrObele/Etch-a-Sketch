@@ -48,10 +48,10 @@ button:focus{
 
 /* Responsiveness */
 
-@media only screen and (max-width: 375px){
+@media only screen and (max-width: 376px){
 	.container{
 		width: 65%;
 
-		height: 70vh;
+		height: 80vh;
 	}
 }
